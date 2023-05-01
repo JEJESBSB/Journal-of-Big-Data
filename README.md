@@ -36,7 +36,8 @@
 
 #### Spectrogram 
 
-- Making Spectrogram images and S.P.MCPL dataset from raw vibration data -   download :  [데이터 분야 - AI 데이터찾기 - AI-Hub (aihub.or.kr)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=238)
+- Making Spectrogram images and S.P.MCPL dataset from raw vibration data 
+  - download :  [데이터 분야 - AI 데이터찾기 - AI-Hub (aihub.or.kr)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=238)
 
 ```bash
  |  Journal of Bigdata_Spectrogram_S.P.MCPL_Testset.ipynb
@@ -47,7 +48,8 @@
 
 #### S.P.MCPL_CNN
 
-- S.P.MCPL Spectrogram images based dataset for CNN validation -  download: [BDJ_Data - Google Drive](https://drive.google.com/drive/u/0/folders/1owu28-2OI5lYaXNVlojj4PJskCdk8mDZ), file name: sp1.zip
+- S.P.MCPL Spectrogram images based dataset for CNN validation 
+  - download: [BDJ_Data - Google Drive](https://drive.google.com/drive/u/0/folders/1owu28-2OI5lYaXNVlojj4PJskCdk8mDZ), file name: sp1.zip
   - These spectrogram images were constructed from the raw vibration data in the above-mentioned.
 
 ```bash
